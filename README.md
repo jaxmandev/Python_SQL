@@ -34,7 +34,7 @@ brew update
 HOMEBREW_NO_ENV_FILTERING=1 ACCEPT_EULA=Y brew install msodbcsql17 mssql-tools
 brew tap microsoft/mssql-release https://github.com/Microsoft/homebrew-mssql-release
 ```
-4. 
+4. Homebrew installation of MS ODB
 ```
 brew install msodbcsql17 mssql-tools
 Once installed, create a python_sql.py file.
