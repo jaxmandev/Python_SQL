@@ -26,9 +26,8 @@ In computer science, a database cursor is a control structure that enables over 
 - Installation
 1. Install the pyodbc package:
 2. pip install pyodbc
-3. 
+3. Install Drivers Use the following commands to install drivers required for compatibility with MacOS
 ```
-Install Drivers Use the following commands to install drivers required for compatibility with MacOS
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew tap microsoft/mssql-release https://github.com/Microsoft/homebrew-mssql-release
 brew update
