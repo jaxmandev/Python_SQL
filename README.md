@@ -74,8 +74,8 @@ product_rows = cursor.execute("SELECT * FROM Products").fetchall()
 ```
 - As with SQL, we can fetch a particular column using control flow.
 
-# for each row in the database, print the UnitPrice
 ```
+# for each row in the database, print the UnitPrice
 for x in product_rows:
     print(x.UnitPrice)
 ```
