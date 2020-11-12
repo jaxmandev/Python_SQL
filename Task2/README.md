@@ -1,6 +1,6 @@
 ## Task part 1 - SQL Movies CRUD
 
-### Timings
+### Timings
 - 60 Minutes
 
 ### Summary
