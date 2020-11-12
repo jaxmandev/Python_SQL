@@ -1,9 +1,4 @@
-# Python with SQL
-
-### Contents
-
-- Using PYODBC
-- What is Cursor?
+# Python with SQL and pyodbc module
 
 ### Introduction
 ```
